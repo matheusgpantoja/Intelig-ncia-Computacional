@@ -1,1 +1,1 @@
-# Intelig-ncia-Computacional
+Códigos desenvolvidos para a disciplina Inteligência Computacional
